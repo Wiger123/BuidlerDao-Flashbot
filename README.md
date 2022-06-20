@@ -1,3 +1,9 @@
+### BuidlerDao FlashBot
+- 主讲人: Wiger https://twitter.com/JizhouW
+- 代码编写: Wiger https://twitter.com/JizhouW
+- 代码编写: Soth https://twitter.com/Soth76267980
+- 助教: Niel
+
 ### 软件交易模式
 1. 正常交易: 市价/限价 买入/卖出
 2. 抢新: 抢土狗
